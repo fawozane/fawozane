@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://oklahomasolutions.de/assets/titelbild.png" width="100%">
+</p>
+
 <h1 align="center">
 
 Hi 👋 I'm Fawozane
