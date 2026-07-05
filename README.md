@@ -79,6 +79,6 @@ https://oklahomasolutions.de
 linkedin.com/in/fawozane
 
 📧 Contact
-contact@oklahomasolutions.de
+kontakt@oklahomasolutions.de
 
 📍 Stuttgart, Germany
