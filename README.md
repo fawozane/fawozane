@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Fawozane 👋</h1>
 
-<!--
-**fawozane/fawozane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Founder of Oklahoma Solutions 
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I build custom software, AI agents and automation solutions that help companies save time and simplify their daily work.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- 🤖 AI Agents
+
+- 💻 Custom Software
+
+- 🌐 Web Applications
+
+- ⚙️ Business Automation
+
+- 🟣 TYPO3 Development
+
+
+
+🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![TYPO3](https://img.shields.io/badge/TYPO3-FF8700?style=for-the-badge&logo=typo3&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+## 🌍 Featured Projects
+
+🔹 Oklahoma Solutions  
+
+🔹 Social Dashboard  
+
+🔹 Event Ticket System  
+
+🔹 Audio Center
+
+## 📫 Connect with me
+
+🌐 https://oklahomasolutions.de
+
+💼 LinkedIn
+
+📍 Stuttgart, Germany
