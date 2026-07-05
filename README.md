@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://oklahomasolutions.de/assets/titelbild.png" width="100%">
+  <img src="https://oklahomasolutions.de/assets/titelbild.png" width="100%" height="80%">
 </p>
 
 <h1 align="center">
