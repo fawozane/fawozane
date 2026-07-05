@@ -1,13 +1,36 @@
-<h1 align="center">Hi, I'm Fawozane 👋</h1>
+<h1 align="center">
+
+Hi 👋 I'm Fawozane
+
+</h1>
 
 <h3 align="center">
-Founder of Oklahoma Solutions 
+
+Founder of Oklahoma Solutions • Software Engineer • AI Automation
+
 </h3>
 
 <p align="center">
-I build custom software, AI agents and automation solutions that help companies save time and simplify their daily work.
+
+Building software, AI agents and automation systems that solve real business problems.
+
 </p>
 
+## About me
+
+I enjoy building software that makes people's work easier.
+
+Instead of creating software for the sake of technology,
+I focus on practical solutions that automate repetitive tasks,
+simplify workflows and create measurable value.
+
+Currently I'm focused on:
+
+• AI Agents
+• Business Automation
+• Web Applications
+• TYPO3
+• Custom Software
 ## 🚀 Current Focus
 
 - 🤖 AI Agents
@@ -32,18 +55,26 @@ I build custom software, AI agents and automation solutions that help companies 
 
 ## 🌍 Featured Projects
 
-🔹 Oklahoma Solutions  
+🚀 Oklahoma Solutions
+Digital solutions & AI automation for businesses.
 
-🔹 Social Dashboard  
+📊 Social Dashboard
+TYPO3 extension for analytics and reporting.
 
-🔹 Event Ticket System  
+🎫 Event Ticket System
+Complete event management platform.
 
-🔹 Audio Center
-
+🎵 Audio Center
+Digital audio management application.
 ## 📫 Connect with me
 
-🌐 https://oklahomasolutions.de
+🌐 Website
+https://oklahomasolutions.de
 
 💼 LinkedIn
+linkedin.com/in/fawozane
+
+📧 Contact
+contact@oklahomasolutions.de
 
 📍 Stuttgart, Germany
